@@ -2,7 +2,6 @@ import time
 
 from selenium.webdriver.common.by import By
 
-from conftest import browser
 
 
 def test_locators(browser):
